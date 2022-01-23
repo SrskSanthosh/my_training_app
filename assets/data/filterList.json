@@ -1,0 +1,78 @@
+{
+  "filterList": [
+    {
+      "id": "1",
+      "sortName": "Location",
+      "isSelected": false,
+      "filterSubList": [
+        {
+          "id": "1",
+          "filterName": "West Des Moines",
+          "isSelected": false
+        },
+        {
+          "id": "2",
+          "filterName": "Chicago,IL",
+          "isSelected": false
+        },
+        {
+          "id": "3",
+          "filterName": "Dallas,Tx",
+          "isSelected": false
+        },
+        {
+          "id": "4",
+          "filterName": "San Diego,CA",
+          "isSelected": false
+        }
+
+      ]
+    },
+    {
+      "id": "2",
+      "sortName": "Training Name",
+      "isSelected": false,
+      "filterSubList": [
+        {
+          "id": "1",
+          "filterName": "Safe Scrum Master (4.5)",
+          "isSelected": false
+        },
+        {
+          "id": "2",
+          "filterName": "Safe Scrum Master (4.6)",
+          "isSelected": false
+        },
+        {
+          "id": "3",
+          "filterName": "Safe Scrum Master (4.7)",
+          "isSelected": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "sortName": "Trainer",
+      "isSelected": false,
+      "filterSubList": [
+        {
+          "id": "1",
+          "filterName": "Helen Gribble",
+          "isSelected": false
+        },
+        {
+          "id": "2",
+          "filterName": "Dr.Scott",
+          "isSelected": false
+        },
+        {
+          "id": "3",
+          "filterName": "Sundar",
+          "isSelected": false
+        }
+
+      ]
+    }
+
+  ]
+}

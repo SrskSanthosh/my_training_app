@@ -1,0 +1,34 @@
+{
+  "trainingList": [
+    {
+      "id": "1",
+      "courseDate": "Oct 11 - 13, 2019",
+      "courseTime": "8:30 am - 12:30 pm",
+      "location": "Convention Hall,Greater Des Moines",
+      "courseTitle": "Safe Scrum Master (4.5)",
+      "courseAuthor": "Helen Gribble",
+      "authorProfileImg": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200",
+      "coursePromo": "Filling Fast!"
+    },
+    {
+      "id": "2",
+      "courseDate": "Dec 11 - 13, 2019",
+      "courseTime": "8:30 am - 12:30 pm",
+      "location": "Convention Hall,Greater Des Moines",
+      "courseTitle": "Safe Scrum Master (4.6)",
+      "courseAuthor": "Helen Gribble",
+      "authorProfileImg": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200",
+      "coursePromo": "Filling Fast!"
+    },
+    {
+      "id": "3",
+      "courseDate": "Jan 11 - 13, 2020",
+      "courseTime": "8:30 am - 12:30 pm",
+      "location": "Convention Hall,Greater Des Moines",
+      "courseTitle": "Safe Scrum Master (4.7)",
+      "courseAuthor": "Helen Gribble",
+      "authorProfileImg": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200",
+      "coursePromo": "Filling Fast!"
+    }
+  ]
+}
