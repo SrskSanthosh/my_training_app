@@ -1,10 +1,17 @@
+import 'dart:io';
+
+import 'package:flutter/services.dart';
 import 'package:training_app/bloc/blocs.dart';
 import 'package:training_app/pages/pages.dart';
 import 'package:training_app/styles/styles.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    statusBarColor: Colors.black,
+    statusBarBrightness:
+        Platform.isAndroid ? Brightness.dark : Brightness.light,
+  ));
   BlocOverrides.runZoned(
     () => runApp(const MyApp()),
     blocObserver: AppBlocObserver(),
